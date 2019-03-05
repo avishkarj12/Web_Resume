@@ -1,0 +1,10 @@
+body {
+    background:
+    url(/home/ajoshi/Documents/Javascript/Templates/edu_backgrnd.jpg)    /* image */
+    top center / 1500px 700px /* position / size */
+    no-repeat                /* repeat */                    
+    fixed                     /* attachment */
+    padding-box              /* origin */
+    content-box              /* clip */
+    }
+    
